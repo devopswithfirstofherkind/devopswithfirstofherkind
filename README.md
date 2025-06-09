@@ -2,6 +2,9 @@
 
 Hi, I’m Egwu Jennifer — also known as **firstofherkind** — an IT Support & DevOps Engineer on a mission to automate, optimize, and elevate the way we build and deploy systems.
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/17312363-Hard-Working">
+
+
 This space is where I document my DevOps journey: from scripting and CI/CD pipelines to cloud deployments and infrastructure as code. If you love clean YAML, resilient infra, and tech with heart, you're in the right place. 💙
 
 ---
